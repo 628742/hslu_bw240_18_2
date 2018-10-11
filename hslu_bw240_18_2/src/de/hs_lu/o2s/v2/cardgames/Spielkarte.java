@@ -5,12 +5,12 @@ public class Spielkarte {
 	/**
 	 * Farbe der Karte (Kreuz, Pik, Herz, Karo)
 	 */
-	String farbe;
+	private String farbe;
 	
 	/**
 	 * Wert der Karte (2, 3, ..., 10, Bube, Dame, König, As, Joker)
 	 */
-	String wert;  
+	private String wert;  
 
 	/**
 	 * Konstruktor ohne Übergabeparameter - macht keinen Sinn
